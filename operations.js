@@ -33,6 +33,8 @@ var result = num1 % num2;
 console.log(result);
 // output: 1
 
+
+
 // shorthands
 var price = 35;
 // price = price + 10;
@@ -51,3 +53,9 @@ var orangePrice = 30;
 orangePrice *= 3;
 console.log(orangePrice);
 // output 270
+
+var applePrice = 50;
+// applePrice = applePrice / 2;
+applePrice /= 2;
+console.log(applePrice);
+// output 25
