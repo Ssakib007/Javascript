@@ -21,3 +21,15 @@ console.log("50" / 10);
 // output 5
 console.log(50 / "10");
 // output 5
+
+var x = "10";
+var num = Number(x);
+console.log(num);
+
+const a = isNaN("9");
+console.log(a);
+// output false
+
+const result = isNaN(4 - "hello");
+console.log(result);
+// output true
