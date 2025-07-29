@@ -9,4 +9,4 @@ console.log(price);
 
 var age = 35;
 age = 44;
-console.log(age)
+console.log(age);
